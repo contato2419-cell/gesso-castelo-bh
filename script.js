@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     if (slides.length > 0) {
-        setInterval(nextSlide, 5000); // Change image every 5 seconds
+        setInterval(nextSlide, 2500); // Change image every 2.5 seconds
     }
 
     // Smooth Scrolling for Anchor Links
