@@ -468,7 +468,7 @@ footer {
     .about-grid, .contact-grid {
         grid-template-columns: 1fr;
     }
-    .reviews-grid {
+    .reviews-grid, .projects-grid {
         grid-template-columns: 1fr;
     }
     .nav-links {
